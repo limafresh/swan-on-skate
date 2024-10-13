@@ -10,7 +10,7 @@
 ## Як грати?
 Треба водити Лебедя пальцем (чи мишкою), оминати перешкоди і збирати монети. За монети можна купити скіни та локації.
 
-![Screenshot](https://github.com/l1mafresh/swan-on-skate/blob/main/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/limafresh/swan-on-skate/main/screenshot.png)
 
 ## Ліцензії
 Гру ліцензовано під CC BY-SA 4.0.
